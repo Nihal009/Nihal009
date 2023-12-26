@@ -1,16 +1,29 @@
-### Dark-Side
+# Dark-Side
+![Header](https://www.wallpaperflare.com/matrix-computer-desktop-backgrounds-pattern-green-color-full-frame-wallpaper-rngu)
+## Mohammed Nihal
 
-<!--
-**Nihal009/Nihal009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+Hello, I'm Mohammed Nihal! [Add a brief bio about yourself here.]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Web Development](https://img.shields.io/badge/Web_Development-61DAFB?style=for-the-badge&logo=html5&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+- ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+- ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4EAA25?style=for-the-badge&logo=powershell&logoColor=white)
+
+### Projects
+
+#### [Project 1]
+
+[Description of Project 1. Add a brief summary, link to the repository, and any other relevant information.]
+
+### Connect with Me
+
+- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Personal Website/Blog](https://yourwebsite.com)
