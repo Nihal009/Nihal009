@@ -6,6 +6,9 @@
 
 Hello, I'm Mohammed Nihal! [Add a brief bio about yourself here.]
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nihal009&theme=gotham&border_radius=12)](https://git.io/streak-stats)
+
 ### Skills
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
