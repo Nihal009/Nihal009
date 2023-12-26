@@ -8,6 +8,8 @@ Hello, I'm Mohammed Nihal! [Add a brief bio about yourself here.]
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nihal009&theme=gotham&border_radius=12)](https://git.io/streak-stats)
+![Nihal009's Stats](https://github-readme-stats.vercel.app/api?username=Nihal009&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![Nihal009's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihal009&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ### Skills
 
