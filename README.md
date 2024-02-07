@@ -4,7 +4,8 @@
 
 ### About Me
 
-Hello, I'm Mohammed Nihal! [Add a brief bio about yourself here.]
+Hello, I'm Mohammed Nihal! 
+Open source enthusiast and tech explorer 🌐 | Curious mind in the world of computer science 💻 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nihal009&theme=gotham&border_radius=12)](https://git.io/streak-stats)
