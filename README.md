@@ -29,6 +29,6 @@ Hello, I'm Mohammed Nihal! [Add a brief bio about yourself here.]
 
 ### Connect with Me
 
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/nihalcrixcrox)
+- [LinkedIn](https://www.linkedin.com/in/mohammed-nihal-81a617229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Personal Website/Blog](https://yourwebsite.com)
