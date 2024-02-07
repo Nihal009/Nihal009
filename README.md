@@ -1,10 +1,10 @@
 # Dark-Side
 <img source="https://giphy.com/gifs/sci-fi-matrix-cyberpunk-sULKEgDMX8LcI"/>
-## Mohammed Nihal
+## 
+Mohammed Nihal
 
 ### About Me
 
-Hello, I'm Mohammed Nihal! 
 Open source enthusiast and tech explorer 🌐 | Curious mind in the world of computer science 💻 
 
 
