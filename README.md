@@ -19,11 +19,7 @@ Open source enthusiast and tech explorer 🌐 | Curious mind in the world of com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nihal009&icon=5&color=0)](https://visitcount.itsvg.in)
-### Projects
 
-#### [Project 1]
-
-[Description of Project 1. Add a brief summary, link to the repository, and any other relevant information.]
 
 ### Connect with Me
 
