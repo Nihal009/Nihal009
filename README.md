@@ -1,5 +1,5 @@
 # Dark-Side
-![git-vader](_b6398b92-ddbb-4f3e-9602-31a6d0027163~2.jpeg "git-vader").
+![git-vader](_b6398b92-ddbb-4f3e-9602-31a6d0027163~2.jpeg "git-vader")
 
 [![An image of @nihal009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nihal009)](https://holopin.io/@nihal009)
 
